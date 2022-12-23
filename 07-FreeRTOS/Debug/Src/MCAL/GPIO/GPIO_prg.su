@@ -1,0 +1,10 @@
+../Src/MCAL/GPIO/GPIO_prg.c:14:6:MGPIO_vSetPinMode	16	static
+../Src/MCAL/GPIO/GPIO_prg.c:33:6:MGPIO_vSetPinOutputType	16	static
+../Src/MCAL/GPIO/GPIO_prg.c:67:6:MGPIO_vSetPinOutputSpeed	16	static
+../Src/MCAL/GPIO/GPIO_prg.c:86:6:MGPIO_vSetPinInputPull	16	static
+../Src/MCAL/GPIO/GPIO_prg.c:105:4:MGPIO_u8GetPinValue	24	static
+../Src/MCAL/GPIO/GPIO_prg.c:123:6:MGPIO_vSetPinVal	16	static
+../Src/MCAL/GPIO/GPIO_prg.c:157:6:MGPIO_vTogPinVal	16	static
+../Src/MCAL/GPIO/GPIO_prg.c:172:6:MGPIO_vSetPinVal_fast	16	static
+../Src/MCAL/GPIO/GPIO_prg.c:206:6:MGPIO_vInit	16	static
+../Src/MCAL/GPIO/GPIO_prg.c:213:6:MGPIO_vSetLowNibbleVal	16	static

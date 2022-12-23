@@ -1,0 +1,5 @@
+../Src/MCAL/DMA/DMA_prg.c:20:6:MDMA_vInit	4	static
+../Src/MCAL/DMA/DMA_prg.c:27:6:MDMA_vSetStream	24	static
+../Src/MCAL/DMA/DMA_prg.c:40:6:MDMA_vEnableStream	16	static
+../Src/MCAL/DMA/DMA_prg.c:46:6:MDMA_vSetStreamCallback	16	static
+../Src/MCAL/DMA/DMA_prg.c:53:6:DMA2_Stream0_IRQHandler	8	static

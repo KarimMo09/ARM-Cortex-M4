@@ -1,0 +1,7 @@
+../Src/MCAL/NVIC/NVIC_prg.c:14:6:MNVIC_vEnablePerihral	16	static
+../Src/MCAL/NVIC/NVIC_prg.c:18:6:MNVIC_vDisablePerhral	16	static
+../Src/MCAL/NVIC/NVIC_prg.c:22:6:MNVIC_vSetPending	16	static
+../Src/MCAL/NVIC/NVIC_prg.c:27:6:MNVIC_vClearPending	16	static
+../Src/MCAL/NVIC/NVIC_prg.c:31:6:MNVIC_u8GetActive	16	static
+../Src/MCAL/NVIC/NVIC_prg.c:36:6:MNVIC_vSetPriorityConfig	4	static
+../Src/MCAL/NVIC/NVIC_prg.c:40:6:MNVIC_vSetPriority	24	static
